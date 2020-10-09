@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.demoPdf {
+  display: flex;
+  justify-content: space-evenly;
+  height: 100%;
+}
+
+.pdfViewer {
+  overflow: auto;
+
+}
+
+html, body, app-root {
+  height: 100%;
+}
+
